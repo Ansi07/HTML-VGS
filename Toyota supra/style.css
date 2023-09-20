@@ -1,0 +1,40 @@
+body{
+    background-image: url(https://files.hodoor.world/main/f90016da-ec97-4e11-a571-8a7707fb7d72.jpeg);
+    background-repeat: no-repeat; /**/
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: justify;
+    text-align: center;
+    color: black;
+    font-size: 40px;
+}
+
+nav {
+    position: absolute;
+    color: white;
+    word-spacing: 150px;
+    top:0;
+    right: 0;
+    transform: translate(-30%, 50%);
+}
+
+footer{
+        position: absolute;
+        bottom: 10px;
+        color: rgb(0, 0, 0);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+
+.background img {
+    background-size: cover;
+    z-index: -1;
+}
+
+h1 {
+    align-items: center;
+    margin-right: 90px;
+  }
